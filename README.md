@@ -15,7 +15,6 @@ Welcome to **Spring Commerce**, a fully functional and secure shopping cart back
 * **Exception Handling**: Robust and descriptive error management.
 * **JPA Finder Methods**: Powerful dynamic query generation using Spring Data JPA.
 
----
 
 ## Functional Requirements
 
@@ -48,7 +47,6 @@ Welcome to **Spring Commerce**, a fully functional and secure shopping cart back
 * Automatic schema creation using JPA and Hibernate.
 * Reverse engineering and validation via MySQL Workbench.
 
----
 
 ## Technologies Used
 
@@ -60,7 +58,6 @@ Welcome to **Spring Commerce**, a fully functional and secure shopping cart back
 * **Testing**: JUnit
 * **Version Control**: Git
 
----
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details
